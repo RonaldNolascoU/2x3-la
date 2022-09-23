@@ -8,6 +8,7 @@ Install the dependencies and start the server.
 git clone https://github.com/RonaldNolascoU/2x3-la.git
 cd 2x3-la
 composer install
+cp .env.example .env
 php artisan migrate
 php artisan db:seed
 php artisan serve
