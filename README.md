@@ -26,6 +26,9 @@ your preferred browser.
 127.0.0.1:8000
 ```
 
+Postman collection
+https://www.getpostman.com/collections/f247ab2f955526a3a72c
+
 ## License
 
 MIT
